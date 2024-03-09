@@ -1,4 +1,4 @@
-print("Exercício 3")
+print("Exercício 5")
 string = input("Insira uma string: ")
 
 def reverseString(string):
